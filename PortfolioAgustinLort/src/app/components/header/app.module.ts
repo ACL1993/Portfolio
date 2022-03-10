@@ -6,13 +6,15 @@ import { ComponentesComponent } from './components/componentes/componentes.compo
 import { FotodeperfilComponent } from './fotodeperfil/fotodeperfil.component';
 import { FotodeportadaComponent } from './fotodeportada/fotodeportada.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { HeaderComponent } from './components/header/header.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ComponentesComponent,
     FotodeperfilComponent,
-    FotodeportadaComponent
+    FotodeportadaComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,
