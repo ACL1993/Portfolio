@@ -13,6 +13,7 @@ import { FotodeperfilComponent } from './fotodeperfil/fotodeperfil.component';
   ],
   imports: [
     BrowserModule
+   
   ],
   providers: [],
   bootstrap: [AppComponent]
