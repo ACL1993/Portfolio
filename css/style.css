@@ -1,3 +1,40 @@
 body {
-    background-color: rgb(175, 175, 252);
+    background-color: rgb(255, 255, 255);
+}
+.responsive {
+    width: 1350px;
+    height: 130px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  .perfil {
+    border-radius: 50%;
+  }
+
+/* Style buttons */
+.btn {
+  background-color: DodgerBlue; /* Blue background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 7px 10px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+}
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
 }
